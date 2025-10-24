@@ -1,0 +1,8 @@
+[package]
+name = "climg"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.28"
+image = { version = "0.25", features = ["avif"] }
