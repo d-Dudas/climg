@@ -63,3 +63,7 @@ climg <path/to/img> [invert]
   </tr>
 </table>
 
+# Similar projects
+
+- [img2braille](https://github.com/TheFel0x/img2braille)
+- [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
